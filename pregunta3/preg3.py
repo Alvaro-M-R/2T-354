@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+@author: Alvaro
 """
 #El algoritmo C4.5 utiliza medidas de Entropía y Relación de ganancia de 
 #información para analizar datos categóricos y numéricos. La función devuelve: 
